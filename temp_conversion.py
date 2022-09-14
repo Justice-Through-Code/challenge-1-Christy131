@@ -18,7 +18,7 @@ def convert_100_to_celsius():
 def convert_0_to_celsius():
     # Convert a temperature of 0 degrees fahrenheit to celsius
     # Save this to a variable called celsius_0, and use print() to print out the value
-    celsius_0_ = (0-32) *5/9
+    celsius_0 = (0-32) *5/9
     print(celsius_0)
 
 def convert_34_2_to_celsius():
